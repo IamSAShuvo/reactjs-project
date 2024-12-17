@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB15rcmIwNJnhuknlGF8d7-fEJ3JfiiRDo2A&s",
+      "player_name": "Shahid Afridi",
+      "country": "Pakistan",
+      "player_type": "Batsman",
+      "rating": 92,
+      "style": "Right-hand-bat",
+      "bowling_style": "Leg Spinner",
+      "price": "145000"
+    },
+    {
+      "id": 2,
+      "player_img": "https://cms.sabcsport.com/storage/images/Kane_Williamson_PA.webp",
+      "player_name": "Kane Williamson",
+      "country": "New Zealand",
+      "player_type": "Batsman",
+      "rating": 89,
+      "style": "Right-hand bat",
+      "bowling_style": "Spinner",
+      "price": "150000"
+    },
+    {
+      "id": 3,
+      "player_img": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c248264/ben-stokes-struck-a-match-winning-52-in-the-t20-world-cup-final.jpg",
+      "player_name": "Ben Stokes",
+      "country": "England",
+      "player_type": "All-Rounder",
+      "rating": 88,
+      "style": "Left-hand-bat",
+      "bowling_style": "Right-arm-fast",
+      "price": "125000"
+    },
+    {
+      "id": 4,
+      "player_img": "https://api.bdcrictime.com/mitchell-starc-biography-21_06_2024.jpg",
+      "player_name": "Mitchell Starc",
+      "country": "Australia",
+      "player_type": "Bowler",
+      "rating": 87,
+      "style": "Left-hand-bat",
+      "bowling_style": "Left-arm-fast",
+      "price": "130000"
+    },
+    {
+      "id": 5,
+      "player_img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/quinton-de-kock-014342686-1x1.jpg?VersionId=2olRK3PuEIflTlZooWpYo4bEqQtkAeI1",
+      "player_name": "Quinton de Kock",
+      "country": "South Africa",
+      "player_type": "Wicketkeeper Batsman",
+      "rating": 85,
+      "style": "Left-hand-bat",
+      "bowling_style": "Left-hand-spinner",
+      "price": "110000"
+    },
+    {
+      "id": 6,
+      "player_img": "https://api.bdcrictime.com/jasprit-bumrahtdg-09_07_2024.jpg",
+      "player_name": "Jasprit Bumrah",
+      "country": "India",
+      "player_type": "Bowler",
+      "rating": 91,
+      "style": "Left-hand-bat",
+      "bowling_style": "Left-arm-fast",
+      "price": "140000"
+    },
+    {
+      "id": 7,
+      "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_800,q_50/lsci/db/PICTURES/CMS/383000/383091.jpg",
+      "player_name": "Trent Boult",
+      "country": "New Zealand",
+      "player_type": "Bowler",
+      "rating": 90,
+      "style": "Right-hand-bat",
+      "bowling_style": "Left-arm fast",
+      "price": "150000"
+    },
+    {
+      "id": 8,
+      "player_img": "https://e0.365dm.com/20/11/1600x900/skysports-rashid-khan-sussex_5166753.jpg?20201109120201",
+      "player_name": "Rashid Khan",
+      "country": "Afghanistan",
+      "player_type": "Bowler",
+      "rating": 94,
+      "style": "Right-hand-bat",
+      "bowling_style": "Leg Spinner",
+      "price": "160000"
+    },
+    {
+      "id": 9,
+      "player_img": "https://crictoday.com/wp-content/uploads/2023/03/UsgAIOc.jpg",
+      "player_name": "Joe Root",
+      "country": "England",
+      "player_type": "Batsman",
+      "rating": 84,
+      "style": "Left-hand-bat",
+      "bowling_style": "Spinner",
+      "price": "135000"
+    }
+  ]
+  

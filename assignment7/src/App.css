@@ -1,0 +1,91 @@
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #ddd;
+  color: #333;
+  margin-right: 5px;
+}
+
+.button.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.button-subscribe {
+  background: linear-gradient(45deg, #93e2d4, #f06595);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button-subscribe:hover {
+  background: linear-gradient(45deg, #f06595, #93e2d4);
+}
+
+
+.subscribe-bg {
+  background-image: url('../src/assets/bg-shadow.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 15px;
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.subscribe-bg::before {
+  content: "";
+  position: absolute;
+  top: -3px;
+  left: -14px;
+  right: -14px;
+  bottom: -14px;
+  z-index: -1;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.footer-bg {
+  background: #06091A;
+  
+}
+
+.subscribe-footer {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 30px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 350px;
+}
+
+.subscribe-footer input[type="email"] {
+  flex: 1;
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  color: #333;
+}
+
+.subscribe-footer button {
+  background: linear-gradient(45deg, #f06595, #ffd700);
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.subscribe-footer button:hover {
+  background: linear-gradient(45deg, #ffd700, #f06595); 
+}
